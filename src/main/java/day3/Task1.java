@@ -19,7 +19,7 @@ public class Task1 {
                 case "Ростов":
                     System.out.println("Россия");
                     break;
-                    
+
                 case "Рим":
                 case "Милан":
                 case "Турин":
